@@ -1,0 +1,1 @@
+# maps_256.npz and val_256.npz files need to be stored here

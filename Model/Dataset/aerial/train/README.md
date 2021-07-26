@@ -1,0 +1,1 @@
+#The generated images from training set will be placed here
