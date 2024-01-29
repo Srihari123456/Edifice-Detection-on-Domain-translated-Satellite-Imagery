@@ -18,3 +18,6 @@ products to product photographs, etc. We evaluate the performance of our network
 check the quality and credibility of the generated image.
 
 ![image](https://github.com/Srihari123456/Edifice-Detection-of-Domain-translated-Satellite-Imagery-Using-Generative-Adversarial-Networks/assets/43612273/4a0a268c-e91f-4ab1-bf2d-0beaac139c2f)
+\
+\
+![image](https://github.com/Srihari123456/Edifice-Detection-on-Domain-translated-Satellite-Imagery/assets/43612273/cdaf9f02-75d7-4c41-bc7e-12c57e7de03f)
